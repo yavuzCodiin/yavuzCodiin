@@ -1,4 +1,5 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/pIMlKqgdZgvo4/giphy.gif" height="200" width="1000px">Hi there, I am Yavuz ERTUGRUL
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-P2F9D65eXks4ORF1sFO1Q?logoColor=%23F000CE&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/yavuz_ertugrull?logoColor=%2322FAAB&style=social) ![GitHub followers](https://img.shields.io/github/followers/yavuzCodiin?logoColor=%23FF4300&style=social) 
 
 <!--
 **yavuzCodiin/yavuzCodiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
