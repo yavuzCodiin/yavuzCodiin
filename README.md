@@ -10,11 +10,11 @@ I love art, drawing, games especially rpg and indie, basketball, reading
 
 [<img src="https://image.flaticon.com/icons/png/512/2881/2881142.png" height="20" width="20px">](https://yavuzertugrul.com/) 
 [<img src="https://image.flaticon.com/icons/png/512/220/220608.png" width="20px">](https://steamcommunity.com/profiles/76561198094163565/)
-[<img src="https://img-premium.flaticon.com/png/512/1384/1384065.png?token=exp=1622807302~hmac=313dd5dd9d6db4b9c1211d39cdc948ca" height="18" width="20px">](https://twitter.com/yavuz_ertugrull)
+[<img src="https://image.flaticon.com/icons/png/512/145/145812.png" height="18" width="20px">](https://twitter.com/yavuz_ertugrull)
 [<img src="https://image.flaticon.com/icons/png/512/747/747543.png" height="20" width="20px">](https://www.facebook.com/zvyyvz/)
-[<img src="https://img-premium.flaticon.com/png/512/1384/1384063.png?token=exp=1622807291~hmac=a4c55de027cfa5d43b23bff5e4e4618d" height="20" width="20px">](https://www.instagram.com/yavuz_ertugrull/)
-[<img src="https://img-premium.flaticon.com/png/512/1384/1384062.png?token=exp=1622807305~hmac=4489a37ff82f6675ac86f4a2a5e6dbcf" height="20" width="20px">](https://www.linkedin.com/in/yavuz-ertu%C4%9Frul123/)
-[<img src="https://img-premium.flaticon.com/png/512/1384/1384067.png?token=exp=1622807306~hmac=e12f871d3cd1f0dc8536db62f48d78ab" height="20" width="20px">](https://www.reddit.com/user/TheBigBadA_I)
+[<img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" height="20" width="20px">](https://www.instagram.com/yavuz_ertugrull/)
+[<img src="https://image.flaticon.com/icons/png/512/1383/1383262.png" height="20" width="20px">](https://www.linkedin.com/in/yavuz-ertu%C4%9Frul123/)
+[<img src="https://image.flaticon.com/icons/png/512/408/408749.png" height="20" width="20px">](https://www.reddit.com/user/TheBigBadA_I)
 [<img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" height="20" width="20px">](https://www.youtube.com/channel/UC-P2F9D65eXks4ORF1sFO1Q)
 [<img src="https://image.flaticon.com/icons/png/512/174/174872.png" height="20" width="20px">](https://open.spotify.com/user/yavuzertugrul23)
 
