@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/pIMlKqgdZgvo4/giphy.gif" height="200" width="1000px">Hi there, I am Yavuz ERTUGRUL
+### <img src="https://media.giphy.com/media/pIMlKqgdZgvo4/giphy.gif" height="200px" width="4000px">Hello there, I am Yavuz ERTUGRUL
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-P2F9D65eXks4ORF1sFO1Q?logoColor=%23F000CE&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/yavuz_ertugrull?logoColor=%2322FAAB&style=social) ![GitHub followers](https://img.shields.io/github/followers/yavuzCodiin?logoColor=%23FF4300&style=social) 
 
 ---
@@ -8,15 +8,14 @@ I previously worked, created projects in C, C#, Arduino, Assembly and I will try
 
 I love art, drawing, games especially rpg and indie, basketball, reading
 
-[<img src="https://image.flaticon.com/icons/png/512/2881/2881142.png" height="20" width="20px">](https://yavuzertugrul.com/) 
-[<img src="https://image.flaticon.com/icons/png/512/220/220608.png" width="20px">](https://steamcommunity.com/profiles/76561198094163565/)
-[<img src="https://image.flaticon.com/icons/png/512/145/145812.png" height="18" width="20px">](https://twitter.com/yavuz_ertugrull)
-[<img src="https://image.flaticon.com/icons/png/512/747/747543.png" height="20" width="20px">](https://www.facebook.com/zvyyvz/)
-[<img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" height="20" width="20px">](https://www.instagram.com/yavuz_ertugrull/)
-[<img src="https://image.flaticon.com/icons/png/512/1383/1383262.png" height="20" width="20px">](https://www.linkedin.com/in/yavuz-ertu%C4%9Frul123/)
-[<img src="https://image.flaticon.com/icons/png/512/408/408749.png" height="20" width="20px">](https://www.reddit.com/user/TheBigBadA_I)
-[<img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" height="20" width="20px">](https://www.youtube.com/channel/UC-P2F9D65eXks4ORF1sFO1Q)
-[<img src="https://image.flaticon.com/icons/png/512/174/174872.png" height="20" width="20px">](https://open.spotify.com/user/yavuzertugrul23)
+[<img src="https://img.icons8.com/external-fauzidea-gradient-fauzidea/344/external-website-online-learning-fauzidea-gradient-fauzidea-2.png" height="20" width="20px">](https://yavuzertugrul.com/) 
+[<img src="https://img.icons8.com/nolan/344/steam--v1.png" height="20px" width="20px">](https://steamcommunity.com/profiles/76561198094163565/)
+[<img src="https://img.icons8.com/nolan/344/twitter-squared.png" height="20px" width="20px">](https://twitter.com/yavuz_ertugrull)
+[<img src="https://img.icons8.com/nolan/344/instagram-new.png" height="20px" width="20px">](https://www.instagram.com/yavuz_ertugrull/)
+[<img src="https://img.icons8.com/nolan/344/linkedin.png" height="20px" width="20px">](https://www.linkedin.com/in/yavuz-ertu%C4%9Frul123/)
+[<img src="https://img.icons8.com/nolan/344/reddit.png" height="20px" width="20px">](https://www.reddit.com/user/TheBigBadA_I)
+[<img src="https://img.icons8.com/nolan/344/youtube-squared.png" height="20px" width="20px">](https://www.youtube.com/channel/UC-P2F9D65eXks4ORF1sFO1Q)
+[<img src="https://img.icons8.com/nolan/344/headphones.png" height="20px" width="20px">](https://music.youtube.com/playlist?list=PLLNrGtVmTmatsOIngvxS3UEHUzgZFgzc_&feature=share)
 
 
 
