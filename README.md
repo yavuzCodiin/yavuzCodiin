@@ -15,7 +15,7 @@ I love art, drawing, games especially rpg and indie, basketball, reading
 [<img src="https://img.icons8.com/nolan/344/linkedin.png" height="20px" width="20px">](https://www.linkedin.com/in/yavuz-ertu%C4%9Frul123/)
 [<img src="https://img.icons8.com/nolan/344/reddit.png" height="20px" width="20px">](https://www.reddit.com/user/TheBigBadA_I)
 [<img src="https://img.icons8.com/nolan/344/youtube-squared.png" height="20px" width="20px">](https://www.youtube.com/channel/UC-P2F9D65eXks4ORF1sFO1Q)
-[<img src="https://img.icons8.com/nolan/344/headphones.png" height="20px" width="20px">](https://music.youtube.com/playlist?list=PLLNrGtVmTmatsOIngvxS3UEHUzgZFgzc_&feature=share)
+[<img src="https://img.icons8.com/nolan/344/headphones.png" height="20px" width="20px">](https://www.youtube.com/watch?v=35UImtLx8N4&list=PLLNrGtVmTmatsOIngvxS3UEHUzgZFgzc_)
 
 
 
