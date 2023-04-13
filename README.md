@@ -3,7 +3,7 @@
 
 ---
 # 🤖 About Me:
-Electrical and Electronics Engineer graduate, currently working as Robotics Application Engineer who defines himself as a open minded lifelong learner, life is too short to learn everything so I learn from different people instead<br><br>I previously worked, created projects in C, C#, Arduino, Assembly and I will try to learn new languages as I learn I will write code and commit here because I believe theory is nothing without practice<br><br>I love art, drawing, games especially rpg and indie, basketball, reading
+Electrical and Electronics Engineering graduate, currently working as Robotics Application Engineer at Acrome Robotics, who defines himself as a open minded lifelong learner, life is too short to learn everything so I learn from different people instead<br><br>I previously worked, created projects in Python, C, C#, C++, Arduino, ROS, Assembly and I will try to learn new languages as I learn I will write code and commit here because I believe theory is nothing without practice<br><br>I love art, drawing, games especially rpg, indie and strategy, basketball, reading, writing.
 
 
 ## 🌐 Socials:
