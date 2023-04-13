@@ -3,11 +3,11 @@
 
 ---
 # 💫 About Me:
-Electrical and Electronics #4 year student who defines himself as a open minded lifelong learner, life is too short to learn everything so I learn from different people instead<br><br>I previously worked, created projects in C, C#, Arduino, Assembly and I will try to learn new languages as I learn I will write code and commit here because I believe theory is nothing without practice<br><br>I love art, drawing, games especially rpg and indie, basketball, reading
+Electrical and Electronics Engineer graduate, currently working as Robotics Application Engineer who defines himself as a open minded lifelong learner, life is too short to learn everything so I learn from different people instead<br><br>I previously worked, created projects in C, C#, Arduino, Assembly and I will try to learn new languages as I learn I will write code and commit here because I believe theory is nothing without practice<br><br>I love art, drawing, games especially rpg and indie, basketball, reading
 
 
 ## 🌐 Socials:
-[<img src="https://img.icons8.com/external-fauzidea-gradient-fauzidea/344/external-website-online-learning-fauzidea-gradient-fauzidea-2.png" height="20" width="20px">](https://yavuzertugrul.com/) 
+## [<img src="https://img.icons8.com/external-fauzidea-gradient-fauzidea/344/external-website-online-learning-fauzidea-gradient-fauzidea-2.png" height="20" width="20px">](https://yavuzertugrul.com/) 
 [<img src="https://img.icons8.com/nolan/344/steam--v1.png" height="20px" width="20px">](https://steamcommunity.com/profiles/76561198094163565/)
 [<img src="https://img.icons8.com/nolan/344/twitter-squared.png" height="20px" width="20px">](https://twitter.com/yavuz_ertugrull)
 [<img src="https://img.icons8.com/nolan/344/instagram-new.png" height="20px" width="20px">](https://www.instagram.com/yavuz_ertugrull/)
