@@ -87,7 +87,7 @@ Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from M
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30:91F1EF,80:FFD5E0&height=180&section=header&text=📊GitHub%20Stats&fontSize=90" />
 
-![](https://github-readme-stats.vercel.app/api?username=yavuzCodiin&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=yavuzCodiin&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yavuzCodiin&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzCodiin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
