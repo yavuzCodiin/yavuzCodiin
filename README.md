@@ -19,6 +19,64 @@ Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from M
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 
+# ✍️ Recent Posts Published On Medium:
+<table>
+  <tr>
+    <td>
+      <a target="_blank" href="https://medium.com/gitconnected/building-a-simple-supermarket-inventory-system-with-python-and-sqlite-4382fbd6c596">
+        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*6laDrabkim8NWtwrqNJmmA.png" alt="Building a Simple Supermarket Inventory System with Python and SQLite" width="100px" style="border-radius: 10px;">
+      </a>
+      <br>
+      <a target="_blank" href="https://medium.com/gitconnected/building-a-simple-supermarket-inventory-system-with-python-and-sqlite-4382fbd6c596" style="text-decoration: none; color: #000;">
+        <b>Building a Simple Supermarket Inventory System with Python and SQLite</b>
+      </a>
+    </td>
+    <td>
+      <a target="_blank" href="https://yavuzertugrul.medium.com/one-thought-on-the-hu-ma-ne-ai-pin-3c77938973f5">
+        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*3gLSQYp09r55yhldYUEZIg.png" alt="One Thought on the Hu.Ma.Ne AI Pin" width="100px" style="border-radius: 10px;">
+      </a>
+      <br>
+      <a target="_blank" href="https://yavuzertugrul.medium.com/one-thought-on-the-hu-ma-ne-ai-pin-3c77938973f5" style="text-decoration: none; color: #000;">
+        <b>One Thought on the Hu.Ma.Ne AI Pin</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a target="_blank" href="https://yavuzertugrul.medium.com/learning-types-in-machine-learning-3754fc3da961">
+        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*_tRQvrOetkIkkUxs" alt="Learning Types in Machine Learning" width="100px" style="border-radius: 10px;">
+      </a>
+      <br>
+      <a target="_blank" href="https://yavuzertugrul.medium.com/learning-types-in-machine-learning-3754fc3da961" style="text-decoration: none; color: #000;">
+        <b>Learning Types in Machine Learning</b>
+      </a>
+    </td>
+    <td>
+      <!-- Placeholder for the next article on the right -->
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a target="_blank" href="https://yavuzertugrul.medium.com/alphago-deciphering-the-art-of-intelligence-04e975c71281">
+        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*qzVef-yk6DOg1sou_K1aCg.png" alt="AlphaGo: Deciphering the Art of Intelligence" width="100px" style="border-radius: 10px;">
+      </a>
+      <br>
+      <a target="_blank" href="https://yavuzertugrul.medium.com/alphago-deciphering-the-art-of-intelligence-04e975c71281" style="text-decoration: none; color: #000;">
+        <b>AlphaGo: Deciphering the Art of Intelligence</b>
+      </a>
+    </td>
+    <td>
+      <!-- Placeholder for another article on the right -->
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yavuzCodiin&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yavuzCodiin&theme=radical&hide_border=false)<br/>
