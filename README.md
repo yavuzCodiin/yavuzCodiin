@@ -81,17 +81,10 @@ Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from M
 </table>
 
 
-
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30:91F1EF,80:FFD5E0&height=180&section=header&text=📊GitHub%20Stats&fontSize=90" />
 
 ![](https://github-readme-stats.vercel.app/api?username=yavuzCodiin&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yavuzCodiin&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzCodiin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-
----
+<img src="https://gist.githubusercontent.com/terkelg/cbb2a0e0e1c3ea4414a6c3257ef22de9/raw/e2cd082c5aac5235c679b5b1ad7fd891a730d9f9/Left%2520Brain.gif" height="150px" width="450px"> <img src="https://gist.githubusercontent.com/terkelg/3c8178b314317c8cc13528bee8d722dc/raw/c0db106882c05e34ca008349f70641c12359ab70/Right%2520Brain.gif" height="150px" width="450px">
