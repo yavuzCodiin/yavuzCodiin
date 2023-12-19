@@ -61,7 +61,13 @@ Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from M
       </a>
     </td>
     <td>
-      <!-- Placeholder for the next article on the right -->
+      <a target="_blank" href="https://levelup.gitconnected.com/currency-converter-app-with-apilayers-fixer-api-and-pyqt-framework-43b2e4292d09">
+        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*S7Z2DdMv4_vLqqQDDIBdjA.png" alt="Currency Converter App with apilayer's fixer API and PyQt Framework" width="100px" style="border-radius: 10px;">
+      </a>
+      <br>
+      <a target="_blank" href="https://levelup.gitconnected.com/currency-converter-app-with-apilayers-fixer-api-and-pyqt-framework-43b2e4292d09" style="text-decoration: none; color: #000;">
+        <b>Currency Converter App with APILayer’s Fixer API and PyQt Framework</b>
+      </a>
     </td>
   </tr>
   <tr>
@@ -79,6 +85,7 @@ Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from M
     </td>
   </tr>
 </table>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30:91F1EF,80:FFD5E0&height=180&section=header&text=📊GitHub%20Stats&fontSize=90" />
