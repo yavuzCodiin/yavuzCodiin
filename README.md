@@ -30,6 +30,7 @@ Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from M
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30:350068,80:FF6978&height=180&section=header&text=%20✍️Recent%20Posts&fontSize=90" />
 
 <table>
+  <!-- ... previous rows ... -->
   <tr>
     <td>
       <a target="_blank" href="https://medium.com/gitconnected/building-a-simple-supermarket-inventory-system-with-python-and-sqlite-4382fbd6c596">
@@ -81,7 +82,13 @@ Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from M
       </a>
     </td>
     <td>
-      <!-- Placeholder for another article on the right -->
+      <a target="_blank" href="https://levelup.gitconnected.com/web-scraping-series-part-i-imdbs-most-popular-movies-with-requests-and-beautifulsoup-19dfcc0f524a">
+        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Mq13-M2iWlOs6L2ZTJQFnw.png" alt="Web Scraping Series Part I — IMDb’s Most Popular Movies with Requests and BeautifulSoup" width="100px" style="border-radius: 10px;">
+      </a>
+      <br>
+      <a target="_blank" href="https://levelup.gitconnected.com/web-scraping-series-part-i-imdbs-most-popular-movies-with-requests-and-beautifulsoup-19dfcc0f524a" style="text-decoration: none; color: #000;">
+        <b>Web Scraping Series Part I — IMDb’s Most Popular Movies with Requests and BeautifulSoup</b>
+      </a>
     </td>
   </tr>
 </table>
