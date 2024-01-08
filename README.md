@@ -34,21 +34,21 @@ Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from M
   <!-- ... previous rows ... -->
   <tr>
     <td>
-      <a target="_blank" href="https://medium.com/gitconnected/building-a-simple-supermarket-inventory-system-with-python-and-sqlite-4382fbd6c596">
-        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*6laDrabkim8NWtwrqNJmmA.png" alt="Building a Simple Supermarket Inventory System with Python and SQLite" width="100px" style="border-radius: 10px;">
+      <a target="_blank" href="https://levelup.gitconnected.com/web-scraping-series-part-iii-practice-with-instagram-github-99359590198f">
+        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*2N1fMWzXoi2HHAdkCD-evw.png" alt="Web Scraping Series Part III— Practice with Instagram & GitHub" width="100px" style="border-radius: 10px;">
       </a>
       <br>
-      <a target="_blank" href="https://medium.com/gitconnected/building-a-simple-supermarket-inventory-system-with-python-and-sqlite-4382fbd6c596" style="text-decoration: none; color: #000;">
-        <b>Building a Simple Supermarket Inventory System with Python and SQLite</b>
+      <a target="_blank" href="https://levelup.gitconnected.com/web-scraping-series-part-iii-practice-with-instagram-github-99359590198f" style="text-decoration: none; color: #000;">
+        <b>Web Scraping Series Part III— Practice with Instagram & GitHub</b>
       </a>
     </td>
     <td>
-      <a target="_blank" href="https://yavuzertugrul.medium.com/one-thought-on-the-hu-ma-ne-ai-pin-3c77938973f5">
-        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*3gLSQYp09r55yhldYUEZIg.png" alt="One Thought on the Hu.Ma.Ne AI Pin" width="100px" style="border-radius: 10px;">
+      <a target="_blank" href="https://levelup.gitconnected.com/web-scraping-series-part-ii-x-feed-selenium-c10ceb4b1a12">
+        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*wrPw23NO1dk0EqOzla9d-g.png" alt="Web Scraping Series Part II — X Feed & Selenium" width="100px" style="border-radius: 10px;">
       </a>
       <br>
-      <a target="_blank" href="https://yavuzertugrul.medium.com/one-thought-on-the-hu-ma-ne-ai-pin-3c77938973f5" style="text-decoration: none; color: #000;">
-        <b>One Thought on the Hu.Ma.Ne AI Pin</b>
+      <a target="_blank" href="https://levelup.gitconnected.com/web-scraping-series-part-ii-x-feed-selenium-c10ceb4b1a12" style="text-decoration: none; color: #000;">
+        <b>Web Scraping Series Part II — X Feed & Selenium</b>
       </a>
     </td>
   </tr>
