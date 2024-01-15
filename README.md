@@ -74,12 +74,12 @@ Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from M
   </tr>
   <tr>
     <td>
-      <a target="_blank" href="https://yavuzertugrul.medium.com/alphago-deciphering-the-art-of-intelligence-04e975c71281">
-        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*qzVef-yk6DOg1sou_K1aCg.png" alt="AlphaGo: Deciphering the Art of Intelligence" width="100px" style="border-radius: 10px;">
+      <a target="_blank" href="https://levelup.gitconnected.com/web-scraping-series-part-iv-world-coins-with-scrapy-data-analysis-with-pandas-6222bb8d6aa7">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*8FYCRVnfPlhGw_bD" alt="Web Scraping Series Part IV — World Coins with Scrapy & Data Analysis with Pandas" width="100px" style="border-radius: 10px;">
       </a>
       <br>
-      <a target="_blank" href="https://yavuzertugrul.medium.com/alphago-deciphering-the-art-of-intelligence-04e975c71281" style="text-decoration: none; color: #000;">
-        <b>AlphaGo: Deciphering the Art of Intelligence</b>
+      <a target="_blank" href="https://levelup.gitconnected.com/web-scraping-series-part-iv-world-coins-with-scrapy-data-analysis-with-pandas-6222bb8d6aa7" style="text-decoration: none; color: #000;">
+        <b>Web Scraping Series Part IV — World Coins with Scrapy & Data Analysis with Pandas</b>
       </a>
     </td>
     <td>
