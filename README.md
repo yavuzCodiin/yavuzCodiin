@@ -94,8 +94,7 @@ Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from M
   </tr>
 </table>
 
-
-
+### <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" height="200px" width="1050px">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30:91F1EF,80:FFD5E0&height=180&section=header&text=📊GitHub%20Stats&fontSize=90" />
 
 ![](https://github-readme-stats.vercel.app/api?username=yavuzCodiin&show_icons=true&theme=radical)<br/>
