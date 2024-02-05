@@ -63,12 +63,12 @@ Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from M
       </a>
     </td>
     <td>
-      <a target="_blank" href="https://levelup.gitconnected.com/currency-converter-app-with-apilayers-fixer-api-and-pyqt-framework-43b2e4292d09">
-        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*S7Z2DdMv4_vLqqQDDIBdjA.png" alt="Currency Converter App with apilayer's fixer API and PyQt Framework" width="100px" style="border-radius: 10px;">
+      <a target="_blank" href="https://medium.com/gitconnected/data-manipulation-with-pandas-d1be327c1096">
+        <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*neODT6lH3pGLCu0N4r_bCA.gif" alt="Data Manipulation with Pandas" width="100px" style="border-radius: 10px;">
       </a>
       <br>
-      <a target="_blank" href="https://levelup.gitconnected.com/currency-converter-app-with-apilayers-fixer-api-and-pyqt-framework-43b2e4292d09" style="text-decoration: none; color: #000;">
-        <b>Currency Converter App with APILayer’s Fixer API and PyQt Framework</b>
+      <a target="_blank" href="https://medium.com/gitconnected/data-manipulation-with-pandas-d1be327c1096" style="text-decoration: none; color: #000;">
+        <b>Data Manipulation with Pandas</b>
       </a>
     </td>
   </tr>
