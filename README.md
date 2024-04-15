@@ -83,12 +83,12 @@ Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from M
       </a>
     </td>
     <td>
-      <a target="_blank" href="https://levelup.gitconnected.com/web-scraping-series-part-i-imdbs-most-popular-movies-with-requests-and-beautifulsoup-19dfcc0f524a">
-        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Mq13-M2iWlOs6L2ZTJQFnw.png" alt="Web Scraping Series Part I — IMDb’s Most Popular Movies with Requests and BeautifulSoup" width="100px" style="border-radius: 10px;">
+      <a target="_blank" href="https://levelup.gitconnected.com/pathfinding-with-best-first-search-algorithm-4a3dbfe9e3ae">
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*_m1HdEx6cPJ71ezJ3n8SWQ.jpeg" alt="Pathfinding with Best First Search Algorithm" width="100px" style="border-radius: 10px;">
       </a>
       <br>
-      <a target="_blank" href="https://levelup.gitconnected.com/web-scraping-series-part-i-imdbs-most-popular-movies-with-requests-and-beautifulsoup-19dfcc0f524a" style="text-decoration: none; color: #000;">
-        <b>Web Scraping Series Part I — IMDb’s Most Popular Movies with Requests and BeautifulSoup</b>
+      <a target="_blank" href="https://levelup.gitconnected.com/pathfinding-with-best-first-search-algorithm-4a3dbfe9e3ae" style="text-decoration: none; color: #000;">
+        <b>Pathfinding with Best First Search Algorithm</b>
       </a>
     </td>
   </tr>
