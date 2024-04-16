@@ -7,7 +7,7 @@
 
 ---
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30:D7B8F3,80:B8B8F3&height=180&section=header&text=🤖About%20Me&fontSize=90" />
-Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from METU. Previously I worked as Robotics Application Engineer at ACROME Robotics, who defines himself as a open minded lifelong learner, life is too short to learn everything so I learn from different people instead<br><br>I previously worked, created projects in Python, C, C#, C++, Arduino, ROS, Assembly and I will try to learn new languages as I learn I will write code and commit here because I believe theory is nothing without practice<br><br>I love art, drawing, games especially rpg, indie and strategy, basketball, reading, writing.
+Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from METU. I am currently working as Robotics Software Engineer at NH Tech Robotics, who defines himself as a open minded lifelong learner, life is too short to learn everything so I learn from different people instead<br><br>I previously worked, created projects in Python, C, C#, C++, Arduino, ROS, Assembly. I am currently working on ROS, python, c++ as I learn I will write code and commit here because I believe theory is nothing without practice<br><br>I love art, drawing, games especially rpg, indie and strategy, basketball, reading, writing.
 
 
 ---
