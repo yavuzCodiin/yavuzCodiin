@@ -7,7 +7,7 @@
 
 ---
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30:D7B8F3,80:B8B8F3&height=180&section=header&text=🤖About%20Me&fontSize=90" />
-Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from METU. I am currently working as Robotics Software Engineer at NH Tech Robotics, who defines himself as a open minded lifelong learner, life is too short to learn everything so I learn from different people instead<br><br>I previously worked, created projects in Python, C, C#, C++, Arduino, ROS, Assembly. I am currently working on ROS, python, c++ as I learn I will write code and commit here because I believe theory is nothing without practice<br><br>I love art, drawing, games especially rpg, indie and strategy, basketball, reading, writing.
+Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from METU. I am currently working as Robotics Software Engineer at Kindhelm, who defines himself as a open minded lifelong learner, life is too short to learn everything so I learn from different people instead<br><br>I previously worked, created projects in  ROS/ROS2, Docker, Python, ML, Linux, Matplotlib, Scikit-learn, OOP, Bash Scripting, QT, Scrapy, Pandas, NumPy, Pytorch, Seaborn. I am currently working on ROS 1/2, python, c++ as I learn I will write code and commit here because I believe theory is nothing without practice<br><br>I love art, drawing, games especially rpg, indie and strategy, basketball, reading, writing.
 
 
 ---
@@ -43,12 +43,12 @@ Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from M
       </a>
     </td>
     <td>
-      <a target="_blank" href="https://levelup.gitconnected.com/web-scraping-series-part-ii-x-feed-selenium-c10ceb4b1a12">
-        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*wrPw23NO1dk0EqOzla9d-g.png" alt="Web Scraping Series Part II — X Feed & Selenium" width="100px" style="border-radius: 10px;">
+      <a target="_blank" href="https://yavuzertugrul.com/WSL">
+        <img src="https://media.licdn.com/dms/image/D4D12AQGgmhlK-6LkhA/article-cover_image-shrink_720_1280/0/1722795523722?e=1728518400&v=beta&t=0qYYv7dspjWv_SzzJ44vqjus9lIA0mBfZ9MiX85hz7g" alt="What is WSL?" height="100px" width="100px" style="border-radius: "10px;">
       </a>
       <br>
-      <a target="_blank" href="https://levelup.gitconnected.com/web-scraping-series-part-ii-x-feed-selenium-c10ceb4b1a12" style="text-decoration: none; color: #000;">
-        <b>Web Scraping Series Part II — X Feed & Selenium</b>
+      <a target="_blank" href="https://yavuzertugrul.com/WSL" style="text-decoration: none; color: #000;">
+        <b>What is WSL?</b>
       </a>
     </td>
   </tr>
