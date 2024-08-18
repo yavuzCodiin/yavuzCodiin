@@ -54,12 +54,12 @@ Hello, this is Yavuz, I’m Electrical & Electronics Engineering graduate from M
   </tr>
   <tr>
     <td>
-      <a target="_blank" href="https://yavuzertugrul.medium.com/learning-types-in-machine-learning-3754fc3da961">
-        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*_tRQvrOetkIkkUxs" alt="Learning Types in Machine Learning" width="100px" style="border-radius: 10px;">
+      <a target="_blank" href="https://yavuzertugrul.com/asr_research_test">
+        <img src="https://yavuzertugrul.com/images/post-9/nvidia_jetson_orin_nx.png" alt="ASR_test_research" width="100px" style="border-radius: 10px;">
       </a>
       <br>
-      <a target="_blank" href="https://yavuzertugrul.medium.com/learning-types-in-machine-learning-3754fc3da961" style="text-decoration: none; color: #000;">
-        <b>Learning Types in Machine Learning</b>
+      <a target="_blank" href="https://yavuzertugrul.com/asr_research_test" style="text-decoration: none; color: #000;">
+        <b>ASR (Automatic Speech Recognition) Research/Test</b>
       </a>
     </td>
     <td>
